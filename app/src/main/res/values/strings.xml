@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinLvl1_1</string>
+    <string name="btn_add_item">Add item</string>
+</resources>
